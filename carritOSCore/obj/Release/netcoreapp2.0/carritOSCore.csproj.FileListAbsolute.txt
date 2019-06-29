@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Documents\GitHub\carritOS-WEB\Core\carritOSCore\carritOSCore\bin\Release\netcoreapp2.0\carritOSCore.deps.json
+C:\Users\USUARIO\Documents\GitHub\carritOS-WEB\Core\carritOSCore\carritOSCore\bin\Release\netcoreapp2.0\carritOSCore.runtimeconfig.json
+C:\Users\USUARIO\Documents\GitHub\carritOS-WEB\Core\carritOSCore\carritOSCore\bin\Release\netcoreapp2.0\carritOSCore.runtimeconfig.dev.json
+C:\Users\USUARIO\Documents\GitHub\carritOS-WEB\Core\carritOSCore\carritOSCore\bin\Release\netcoreapp2.0\carritOSCore.dll
+C:\Users\USUARIO\Documents\GitHub\carritOS-WEB\Core\carritOSCore\carritOSCore\bin\Release\netcoreapp2.0\carritOSCore.pdb
+C:\Users\USUARIO\Documents\GitHub\carritOS-WEB\Core\carritOSCore\carritOSCore\obj\Release\netcoreapp2.0\carritOSCore.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\carritOS-WEB\Core\carritOSCore\carritOSCore\obj\Release\netcoreapp2.0\carritOSCore.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\carritOS-WEB\Core\carritOSCore\carritOSCore\obj\Release\netcoreapp2.0\carritOSCore.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\GitHub\carritOS-WEB\Core\carritOSCore\carritOSCore\obj\Release\netcoreapp2.0\carritOSCore.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\GitHub\carritOS-WEB\Core\carritOSCore\carritOSCore\obj\Release\netcoreapp2.0\carritOSCore.dll
+C:\Users\USUARIO\Documents\GitHub\carritOS-WEB\Core\carritOSCore\carritOSCore\obj\Release\netcoreapp2.0\carritOSCore.pdb

@@ -1,0 +1,33 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:54434/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "api/BusinessOwner",
+      "environmentVariables": {
+        "Alosilla": "aksjdhbaskljdfbaklfjsasfkljbaslkjda;osdja[odjapfgdklausdhasudkgasdgadhgasoigasoidpgasyopidgaodygaoudsg",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "carritOSCore": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:54436/"
+    }
+  },
+  "env": {
+    "ASPNETCORE_ENVIRONMENT": "Development",
+    "ASPNETCORE_URLS": "http://localhost:3000"
+  }
+}
