@@ -71,6 +71,9 @@ namespace carritOSCore
             app.UseAuthentication();
             app.UseMvc();
 
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
+
             if (!context.BusinessOwners.Any())
             {
                 context.BusinessOwners.AddRange(new List<BusinessOwner>()
